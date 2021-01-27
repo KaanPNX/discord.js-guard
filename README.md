@@ -17,7 +17,7 @@ Example of a basic bot handling spam messages using this module.
 
 ```js
 const Discord = require('discord.js');
-const Guard = require('../server.js');
+const Guard = require('discord.js-guard');
 const client = new Discord.Client();
 
 Guard({ 
