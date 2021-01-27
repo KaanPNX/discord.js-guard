@@ -2,8 +2,8 @@ const Discord = require('discord.js'); // v12
 const events = require('events');
 const fs = require('fs-extra');
 const data = require('./src/Database/Database');
-const GuardErrors = require('./src/GuardErrors');
-const GuardClient = require('./src/GuardClient');
+//const GuardErrors = require('./src/GuardErrors');
+//const GuardClient = require('./src/GuardClient');
 
 function Guard(options,client){
   
@@ -55,8 +55,8 @@ function Guard(options,client){
 
   };
   
-  GuardErrors(options);
-  GuardClient(options,client);
+  //GuardErrors(options);
+  //GuardClient(options,client);
   
 };
 
