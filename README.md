@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nodei.co/npm/discord.js-guard/"><img src="https://nodei.co/npm/discord.js-guard"></a></p>
+<p align="center"><a href="https://nodei.co/npm/discord.js-guard/"><img src="https://nodei.co/npm/discord.js-guard.png"></a></p>
 
 # discord.js-guard
 
