@@ -77,7 +77,7 @@ client.login("TOKEN");
 
 ## Support Server
 
-Join our [Support Server](https://discord.gg/) where we help you with issues regarding the module.
+Join our [Support Server](https://discord.gg/YbWSTBMEpb) where we help you with issues regarding the module.
 
 ## Bug Reports
 
